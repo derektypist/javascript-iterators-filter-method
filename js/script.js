@@ -19,7 +19,7 @@ $('#mytext').on('keyup', () => {
     $('#results').html(``);
     const str = $('#mytext').val();
     $('#results').append(`You have entered ${str} <br>`);
-    $('#results').append(`Letter${alphabeticalCharactersOnly(str).length === 1 ? "" : "s"} entered ${alphabeticalCharactersOnly(str)} <br>`);
+    $('#results').append(`Letter${alphabetCharactersOnly(str).length === 1 ? "" : "s"} entered ${alphabetCharactersOnly(str)} <br>`);
 });
 
 // Click event for Clear button

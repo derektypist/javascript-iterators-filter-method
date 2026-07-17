@@ -20,6 +20,22 @@ Allows the user to enter text in order to see the letters of the alphabet that s
 
 ## Technologies
 
-Uses HTML5, CSS3, Bootstrap 5.3.2 and jQuery 4.0.0.
+Uses HTML5, CSS3, Bootstrap 5.3.2 and jQuery 3.7.1.
+
+## Testing
+
+To preview, use the command `python3 -m http.server` and press `Enter`.  Check that all user stories have been met.
+
+W3C Validator will be performed, once deployed.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/javascript-iterators-filter-method) at the main branch.
+
+## Credits
+
+### Acknowledgements
+
+- [W3Schools.com](https://www.w3schools.com)
 
 

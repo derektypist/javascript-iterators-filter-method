@@ -26,7 +26,16 @@ Uses HTML5, CSS3, Bootstrap 5.3.2 and jQuery 3.7.1.
 
 To preview, use the command `python3 -m http.server` and press `Enter`.  Check that all user stories have been met.
 
-W3C Validator will be performed, once deployed.
+- HTML
+
+    - No errors were found through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fderektypist.github.io%2Fjavascript-iterators-filter-method%2Findex.html)
+
+- CSS
+    - No errors were found through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fderektypist.github.io%2Fjavascript-iterators-filter-method%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+- Link Checker
+
+    - All links and anchors are valid through the official [W3C Link Checker](https://validator.w3.org/checklink?uri=https%3A%2F%2Fderektypist.github.io%2Fjavascript-iterators-filter-method%2F&hide_type=all&depth=&check=Check)
 
 ## Deployment
 

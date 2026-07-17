@@ -1,8 +1,7 @@
 $('#results').html(``);
 
 // Function to return alphabetical characters
-function alphabeticalCharactersOnly(str) {
-    // Convert to lower case
+function alphabetCharactersOnly(str) {
     str = str.toLowerCase();
     const alphabet = "abcdefghijklmnopqrstuvwxyz";
     const myIterator = Iterator.from(str);
